@@ -1,0 +1,7 @@
+.ui-dialog-titlebar-close{
+  display: none;
+}
+
+.ui-dialog-content {
+  min-width: 600px;
+}

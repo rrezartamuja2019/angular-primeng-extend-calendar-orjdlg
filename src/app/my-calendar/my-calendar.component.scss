@@ -1,0 +1,19 @@
+.ui-inputtext {
+  min-width: 300px;
+}
+.dropdown {
+  min-width: 150px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.input-group {
+  padding: 12px;
+
+  select {
+    padding: 5px;
+    border-radius: 4px;
+  }
+}
